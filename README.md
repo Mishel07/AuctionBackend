@@ -1,6 +1,5 @@
 # AuctionBackend
 To view website:
-https://auctionpointfrontend.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/81346446/196032344-aa0e1f55-0d68-4ee5-b4e3-5f1d345c84ca.png)
 ![image](https://user-images.githubusercontent.com/81346446/196033009-847ec85b-6f79-40b1-8e88-aa4cfae4d1de.png)
 ![image](https://user-images.githubusercontent.com/81346446/196033016-e4271fd4-c4af-448a-8c4f-2fe4e4bc4e8d.png)
